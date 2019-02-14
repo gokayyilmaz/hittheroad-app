@@ -1,2 +1,2 @@
 # Hit The Road App
-An app webpage for hitting the road: https://gokayyilmaz.github.io/hittheroad-app/
+A webpage of an app for hitting the road: https://gokayyilmaz.github.io/hittheroad-app/
